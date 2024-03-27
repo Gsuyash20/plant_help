@@ -14,3 +14,7 @@ Accuracy of 97 was achieved in training the model
 ### Package's Used
   tflite_flutter: ^0.10.4
   image_picker: ^1.0.7
+
+
+## Dataset Used
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
